@@ -22,5 +22,6 @@ Step that I need to follow:
   - NLP
   - Multimedia
   - https://www.openeuroscience.com/
+  - http://openscienceframework.org/
 - Resume of achivements and new proposals
 
