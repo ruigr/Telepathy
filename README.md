@@ -16,11 +16,11 @@ Step that I need to follow:
 - How can we distinguish diseases from the brain (I will need volunteer help to achieve this)
 - How to preserve/improve the brain processes, by non-invasive means and with the introduction of information technologies
 - Development of Telepathy environment (Can use many tools and diferent programming languages, but each must fill the requirements of the project)
-- - Java/Python/Lisp/Etc...
-- - PostgreSQL/Postgis
-- - QGIS
-- - NLP
-- - Multimedia
-- - https://www.openeuroscience.com/
+  - Java/Python/Lisp/Etc...
+  - PostgreSQL/Postgis
+  - QGIS
+  - NLP
+  - Multimedia
+  - https://www.openeuroscience.com/
 - Resume of achivements and new proposals
 
